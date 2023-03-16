@@ -1,16 +1,16 @@
 # mycart
+## App type
+this is simple add to cart functionlaity app
 
-A new Flutter project.
+## key features 
+simple ui/ux
+addto cart
+delete from cart
+count the prices
 
-## Getting Started
+## Techinc and Technology
+##ui/ux
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##link of this site
